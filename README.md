@@ -1,6 +1,8 @@
-<h1 align="center">Visit my Website (https://www.dogorshom.com)</h1>
+<h1 align="center">Visit my Website (https://a-dogorshom.dorik.io/)</h1>
 <h1 align="center">Hi 👋, I'm Abdelsalam Dogorshom</h1>
-<h3 align="center">I'm a Full-Stack developer in mobile applications and an IT Support Specialist. As a 4 years Full-Stack mobile apps developer, I created full apps from scratch for Android and iOS using Flutter. I'm familiar with Firebase as BaaS(Backend as a service), But I'm also using restful APIs in my apps. As an IT Support Specialist, I develop innovative solutions to unforeseen issues and maintain optimal security through hands-on management of all hardware and software assets.</h3>
+<h3>I'm a dedicated and experienced mobile app developer with five years of expertise in creating robust and user-friendly applications for both Android and iOS platforms. My journey in mobile development began with a strong foundation in Flutter and Firebase, enabling me to build scalable, high-performance apps from the ground up. With a deep understanding of mobile app architecture, UI/UX design, and backend integration, I have consistently delivered applications that meet and exceed client expectations.
+
+In addition to my mobile development skills, I have a strong background in IT support. My two years as an IT Specialist equipped me with the ability to manage and troubleshoot complex IT infrastructures, ensuring smooth operations and optimal security. This combination of mobile development and IT expertise allows me to approach projects holistically, considering both the end-user experience and the technical stability of the systems I work with.</h3>
 <h3 align="center"> Skills in short (Flutter, Firebase, Google Cloud Platform, Git, UI/UX, Troubleshooting, Researching, APIs, Adobe XD, macOS, Windows, Security, and publishing).</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dogorshom" alt="dogorshom" /></a> </p>
